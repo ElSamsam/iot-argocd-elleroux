@@ -6,4 +6,4 @@ spec:
   selector: {app: app}
   ports:
   - port: 80
-    targetPort: 8080
+    targetPort: 8888
