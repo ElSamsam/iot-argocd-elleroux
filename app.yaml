@@ -8,7 +8,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/ElSamsam/iot-argocd-elleroux.git
-    targetRevision: HEAD
+    targetRevision: alex
     path: app
   destination:
     server: https://kubernetes.default.svc
